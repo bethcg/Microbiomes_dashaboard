@@ -1,0 +1,7 @@
+# Python dependencies for the Streamlit dashboard (Procfile web process).
+# Renku's Cloud Native Buildpacks install these when building the web-app session.
+streamlit>=1.36
+plotly>=5.22
+pandas>=2.0
+numpy>=1.24
+scipy>=1.10
