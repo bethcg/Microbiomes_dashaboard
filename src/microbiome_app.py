@@ -30,7 +30,7 @@ st.markdown(
     unsafe_allow_html=True,
 )
 
-st.title("Wheat rhizosphere microbiome — WP3")
+st.title("Wheat rhizosphere microbiome")
 st.markdown(
     "Sequential propagation of a *reproducible* wheat rhizosphere microbiome "
     "(Garrido-Sanz & Keel, UNIL). Data: "
